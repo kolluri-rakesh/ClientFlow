@@ -36,7 +36,7 @@ A Spring Boot-based web application for managing client information with full CR
 
 1. **Clone the repository**
   
-   git clone https://github.com/your-username/client-management-system.git
+   git clone https://github.com/kolluri-rakesh/client-management-system.git
    cd client-management-system
 
 
