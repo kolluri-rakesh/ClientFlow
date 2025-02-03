@@ -11,7 +11,6 @@ A Spring Boot-based web application for managing client information with full CR
 - Edit existing client information
 - Delete clients with confirmation
 - Form validation for all fields
-- Search functionality (optional - add if implemented)
 - Responsive Bootstrap UI
 - H2 in-memory database integration
 - Automatic timestamp for client creation
@@ -28,9 +27,8 @@ A Spring Boot-based web application for managing client information with full CR
 
 ## Prerequisites
 
-- Java 17 or higher
-- Maven 3.6.3 or higher
-- Internet connection (for Bootstrap CDN)
+- Java 17 
+- Maven 3.6.3 
 
 ## Getting Started
 
