@@ -4,8 +4,6 @@
 
 A Spring Boot-based web application for managing client information with full CRUD (Create, Read, Update, Delete) operations.
 
-![Demo Screenshot](screenshots/demo.png) <!-- Add actual screenshots later -->
-
 ## Features
 
 - Create new client records with validation
